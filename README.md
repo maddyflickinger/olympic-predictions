@@ -14,3 +14,5 @@ final_results_allcolumns.xlsx: table comparing all results on validation/test fr
 example_plots.py: code to build line graphs/forecasts for select events. Can be adapted to produce graphs for other events.
 
 Side Project Poster: summary of project work and results
+
+swimming.csv: data used for this project
