@@ -1,2 +1,2 @@
 # olympic-predictions
-Using exponential smoothing models, I predicted the winning times for the 2024 Olympic Games for all 26 individual swimming events.
+Using data from the 1948 - 2020 Olympic Games, I built time series models to predict the winning times for all individual swimming events at the upcoming 2024 competition. Challenges included having limited data and the impact of COVID-19 on the results of the 2020 competition. Based on my models, we can expect a fast summer of racing, with predictions indicating that 5 world records are likely to be broken across the events.
